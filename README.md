@@ -1,27 +1,27 @@
-# UI-UX-Project
-Final Project for my Principles of UX/UI Design Coursera course  
+# LemonReserveUIUX
+
   
 ## Create a Table Reservation Page ##  
   
 ### Defining the Problem ##  
 
-The Little Lemon Restaurant does not have an online reserve-a-table feature making it difficult for customers to reserve a table without having to call the restaurant directly. A mobile reservation page must be created that allows the user to choose the date, time, number of guests, and enter their contact information to create a seamless reservation experience.  
-  
+The Little Lemon Restaurant doesn’t have an online feature to reserve a table, which makes it hard for customers to book without calling the restaurant. To fix this, we need to create a mobile reservation page. It should let users pick a date, time, number of guests, and enter their contact info so they can book a table easily and quickly.
+
 ### Creating a Persona ###  
 
-A fictional person was created that would represent the sites target users. They were designed with a photo, name, bio, core needs, and frustrations simulating a real person. The persona was used as the basis of the sites design and direction as well as a way to place the designer in a users shoes and see how they would use and navigate the website.  
+A made-up person was created to represent the website’s target users. This "persona" included a photo, name, bio, main needs, and frustrations, just like a real person. It helped guide the website’s design and let the designer think like a user to understand how they would interact with the site. 
   
 ![Little Lemon Persona](https://github.com/javierb256/UI-UX-Project/blob/main/Little%20Lemon%20Persona.png)  
   
 ### User Journey Map ###  
 
-A journey map is a document that follows the persona's journey through the start of a designated task towards the end goal. In this situation the persona was tasked with reserving a table from the Little Lemon Restaurant website. The document follows along each step that the persona takes, keeping note of what they are thinking and saying throughout the process. At the end of the journey any possible opportunitites for improvement are noted as well as steps that are needed to be completed in order to achieve those improvements.  
+A journey map is a document that shows the steps the persona takes to complete a task from start to finish. In this case, the task was reserving a table on the Little Lemon Restaurant website. The map tracks each step, along with what the persona is thinking and saying during the process. At the end, it points out areas for improvement and lists what needs to be done to make things better.
   
 ![Persona Journey Map](https://github.com/javierb256/UI-UX-Project/blob/main/User%20Journey%20Map.png)  
   
 ### Designing a Wireframe ###  
 
-A wireframe is a Low-fidelity prototype that focuses on the placement and hierarchy of the page content. It is a quick way to focus on the essentials of a page design such as features and functionality without worrying about final details such as images or color.  
+A wireframe is a simple sketch or layout that shows where things go on a page and how important they are. It helps focus on the basics of the design, like features and how it works, without worrying about details like colors or images. 
 
 ![Reserve a table page 1](https://github.com/javierb256/UI-UX-Project/blob/main/Reserve%20a%20table%20-%20Page%201.png)  
 ![Reserve a table page 2](https://github.com/javierb256/UI-UX-Project/blob/main/Reserve%20a%20table%20-%20Page%202.png)  
@@ -29,7 +29,7 @@ Link to these wireframes in Figma [Figma wireframes](https://www.figma.com/file/
   
 ### Creating a Prototype ### 
   
-A prototype is a High-fidelity prototype that closely represents the final product created in Figma. The prototype is interactive, allowing a user to preview the possible final project with interactive elements such as buttons and visual elements.  
+A prototype is a detailed version of the final product, made in Figma. It’s interactive, so users can click buttons and see how the design would actually work, giving a preview of the final project. 
 
 ![Table Reservation choose Date, Time and Guests amount](https://github.com/javierb256/UI-UX-Project/blob/main/Table%20Reservation%20-%20Time-Date.png)  
 ![Table Reservation - Contact Information](https://github.com/javierb256/UI-UX-Project/blob/main/Table%20Reservation%20-%20Contact%20Information.png)  
